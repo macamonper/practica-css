@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Varta:wght@300;400;600&display=swap');
+
+.fuente{
+    font-family: 'Varta', sans-serif;
+
+}
+h2{
+    font-size: 25px;
+}
+h3{
+    font-size: 20px;
+}
+a{
+    color:magenta;
+    text-decoration: none;
+}
+p{
+    font-size: 15px;
+}
+.fecha{
+    font-size: 13px;
+    color: lightgray;
+}
+.emoji{
+    background-color: lightgray;
+}

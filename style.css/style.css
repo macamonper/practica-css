@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap');
+
+h1{
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 120px;
+    
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 48px;
+
+}
+.macarena{
+    color :#FFBE0B;
+    	}
+.psicologa{
+    color: #FB5607	;
+}
+.publicista{
+    color: #FF006E	 ;
+}
+.cocinera{
+    color: #8338EC;
+}
+.mama{
+    color: #3A86FF	;
+}

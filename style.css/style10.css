@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400&display=swap');
+
+.fuente{
+    font-family: 'Raleway', sans-serif;
+
+}
+h1{
+    font-size: 35px;
+}
+h2{
+    font-size: 25px;
+}
+h3{
+    font-size: 20px;
+    
+}
+.hecho{
+    background-color:#008000;
+}
+.pendiente{
+    background-color:#0000ff;
+}
+.haciendo{
+    background-color: #ffa500;
+}
+.cancel{
+    background-color: #ff0000;
+}

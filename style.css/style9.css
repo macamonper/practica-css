@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&display=swap');
+
+.letra{
+    font-family: 'JetBrains Mono', monospace;
+
+}
+h1{
+    font-size:30px
+}
+h2{
+    font-size: 20px;
+}
+.mov{
+    font-size: 16px;
+}
+.fecha{
+    font-size:13px;
+    color: #808080;
+}
+.positivo{
+    font-size: 15px;
+    color: #008000;
+}
+.negativo{
+    font-size: 15px;
+    color: #ff0000;
+
+}

@@ -1,0 +1,29 @@
+    @import url('https://fonts.googleapis.com/css2?family=Inria+Serif:wght@700&display=swap');
+    
+    @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
+
+    @import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
+
+h1{
+    font-family: 'Inria Serif', serif;
+    font-size: 60px;
+}
+
+.caja{
+    font-family: 'Varta', sans-serif;
+    font-size: 30px;
+}
+
+a{
+    color: blue;
+}
+.publicado{
+    color:  #cccccc;
+}
+
+
+.distinto{
+    font-family: 'Sansita Swashed', cursive;
+    font-style: italic;
+
+}
